@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GUI.js">
+    <Files>
+      <File FileName="Assets\GUI.js" Line="4" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Sources\Scripts\MouseLook.cs" Line="38" Column="13" />
+      <File FileName="Assets\shoot.js" Line="12" Column="70" />
+      <File FileName="Assets\cursormove.js" Line="56" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
