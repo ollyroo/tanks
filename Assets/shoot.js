@@ -6,7 +6,7 @@ function Start () {
 }
 
 function Update () {
-	if (Input.GetButtonDown("Jump")) || if (Input.GetMouseButtonDown(0));
+	if (Input.GetButtonDown("Jump") || Input.GetMouseButtonDown(0))
 	{
 	var instanceBullet = Instantiate(bullet, transform.position, Quaternion.identity);
 	instanceBullet.velocity = transform.TransformDirection(Vector3.right*shootForce);
