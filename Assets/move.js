@@ -3,7 +3,7 @@ var speed : float = 1.5;
 private var count : int = 0;
 
 function Start () {
-	Debug.Log("Start Again");
+//	Debug.Log("Start Again");
 	transform.position=Vector3(0, 1, 0);
 		transform.rotation = Quaternion.identity;
 }

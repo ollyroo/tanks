@@ -35,7 +35,7 @@ public class MouseLook : MonoBehaviour {
 		if (axes == RotationAxes.MouseXAndY)
 		{
 			float rotationX = Mathf.Clamp ((Input.mousePosition.x/Screen.width+0.5f)*360, minimumX, maximumX);;
-			Debug.Log (rotationX);
+//			Debug.Log (rotationX);
 			rotationY += Input.GetAxis("Mouse Y") * sensitivityY;
 			rotationY = Mathf.Clamp (rotationY, minimumY, maximumY);
 			

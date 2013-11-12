@@ -53,7 +53,7 @@ function MoveMouse(mousePosX : float, mousePosY : float) {
     if (mousePosX > .615) {
         mousePosX = .615;
     }
-	Debug.Log(mousePosX);
+//	Debug.Log(mousePosX);
     transform.position.x = mousePosX;
     transform.position.y = 0.58;
 }
